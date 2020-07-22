@@ -1,1 +1,6 @@
 Git is Distributed Version Control System tool
+
+Git is used to keep a track of changes made to code:
+who, when, why and what changes
+
+Git is used to keep backup of the code
