@@ -1,0 +1,3 @@
+Git Branching is helpful for parallel development.
+Branching helps to amke a ccopy of the master branch and make the required changes in the code.
+Later it can be merged to Master Branch
